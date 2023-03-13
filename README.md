@@ -1,6 +1,5 @@
 # Usermaven SDK integration with Quasar v2 (app-vite)
 > This guide will walk you through the steps to integrate the Usermaven SDK into your Quasar v2 project.
-A Quasar Project
 
 ## Prerequisites
 - Quasar v2 project setup
@@ -10,7 +9,7 @@ A Quasar Project
 ## Installation
 You can install the Usermaven SDK for JavaScript via npm:
 ```bash
-yarn
+yarn add @usermaven/sdk-js
 # or
 npm install @usermaven/sdk-js
 ```
